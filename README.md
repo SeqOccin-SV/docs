@@ -1,2 +1,2 @@
 # docs
-Documentation for SeqOccin SV project
+Documentation for the SeqOccin SV project
