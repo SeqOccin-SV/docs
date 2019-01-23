@@ -1,7 +1,8 @@
 # The SeqOccin SV project
 Documentation for the SeqOccin SV project
 
-## Dependencies
+[Benchmarking Alignment](BenchmarkingAlign.md)
+
 Using paftools to evaluate sensibility and sensitivity of mappers :
 [minimap2-mapeval](https://github.com/lh3/minimap2/tree/master/misc)
 
