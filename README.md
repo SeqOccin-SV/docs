@@ -12,4 +12,7 @@ Using paftools to evaluate sensibility and sensitivity of mappers :
 
 [Snakemake](Snakemake.md)
 
+Editing a .md file: https://pandao.github.io/editor.md/en.html
+
+
 
