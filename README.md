@@ -1,7 +1,7 @@
 # The SeqOccin SV project
 Documentation for the SeqOccin SV project
 
-[Vcf specifications](VcfSpecifications)
+[Vcf specifications](VcfSpecifications.md)
 
 https://samtools.github.io/hts-specs/VCFv4.2.pdf)
 
