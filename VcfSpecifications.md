@@ -1,4 +1,5 @@
 
+Official specifications
 https://samtools.github.io/hts-specs/VCFv4.2.pdf
 
 100GP:
