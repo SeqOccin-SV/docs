@@ -13,6 +13,8 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 [Snakemake](Snakemake.md)
 
+[Git](Git.md)
+
 ### Specifications
 
 [Vcf specifications](VcfSpecifications.md)
