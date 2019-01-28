@@ -1,17 +1,23 @@
 # The SeqOccin SV project
-Documentation for the SeqOccin SV project
+Detection of structural variants from long reads
 
-[Vcf specifications](VcfSpecifications.md)
+## Long read alignments
+Bechmarking long read aligners : minimap2 and ngm-lr
 
 [Benchmarking Alignment Softwares](BenchmarkAlign.md)
 
-### Some useful commands of external tools
+
+### Some useful general documentation for external tools
 
 [Conda](Conda.md)
 
 [Snakemake](Snakemake.md)
 
+### Specifications
 
+[Vcf specifications](VcfSpecifications.md)
+
+[Sam specifications](https://samtools.github.io/hts-specs/SAMv1.pdf)
 
 
 
