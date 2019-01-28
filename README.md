@@ -7,7 +7,7 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 [Benchmarking Alignment Softwares](BenchmarkAlign.md)
 
 
-### Some useful general documentation for external tools
+### Documentation for external tools
 
 [Conda](Conda.md)
 
