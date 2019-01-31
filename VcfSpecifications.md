@@ -10,6 +10,6 @@ For structural varianst :
 - POS: position just before the event
 - REF and ALT alleles must include the first base before the event 
 - SVLEN: différence between REF allele and ALT alleles: ||REF|| - ||ALT|| (and so one for other alternate alleles)
-  -
+  * SVLEN is negative in the case of deletions
 - END =  POS + ||REF|| -1, hence SVLEN = POS - END
 
