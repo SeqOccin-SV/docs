@@ -1,3 +1,10 @@
+
+### Creating an environment file environment.yaml
+
+```
+conda env export | grep -v "^prefix: " > environment.yml
+```
+
 ### Updating an environment 
 
 ```
