@@ -7,6 +7,10 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 [Benchmarking Alignment Softwares](BenchmarkAlign.md)
 
 
+### Structural variation tools
+
+[Svviz2]
+
 ### Documentation for external tools
 
 [Conda](Conda.md)
