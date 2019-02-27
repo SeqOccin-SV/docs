@@ -7,7 +7,7 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 [Benchmarking Alignment Softwares](BenchmarkAlign.md)
 
 
-### Structural variation tools
+### Structural variation related tools
 
 [Svviz2](Svviz2.md)
 
@@ -28,6 +28,3 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 
 Editing a .md file: https://pandao.github.io/editor.md/en.html
-
-
-
