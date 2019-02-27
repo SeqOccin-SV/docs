@@ -12,6 +12,5 @@ pip install rpy2
 pip install pybind11
 pip install -U git+https://github.com/nspies/genomeview.git
 pip install -U git+git://github.com/nspies/svviz2.git
-
 ```
 
