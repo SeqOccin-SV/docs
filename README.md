@@ -9,7 +9,7 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 ### Structural variation tools
 
-[Svviz2]
+[Svviz2](Svviz2.md)
 
 ### Documentation for external tools
 
