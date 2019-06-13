@@ -6,14 +6,10 @@ git pull --recurse-submodules
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
-Update a submodule version to latest: https://github.com/tj/git-extras/pull/80
+Pour se débarasser des HEAD detatched: https://stackoverflow.com/questions/6474847/how-do-i-git-clone-recursive-and-checkout-master-on-all-submodules-in-a-single/6475033
 
 ```
-cd submodule_name
-git checkout master && git pull
-cd ..
-git add submodule_name
-git commit -m "updating submodule to latest"
+git submodule foreach --recursive git checkout master
 ```
 Check address of the remote repository (works for submodules)
 ```
