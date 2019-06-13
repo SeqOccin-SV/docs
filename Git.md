@@ -24,14 +24,11 @@ Dans le répertoire du sous-module
 ```
 git checkout master
 ```
-Nous sommes maintenant bien connecté à la branche principale et on peut travailler normalement.
-
+Nous sommes maintenant bien connecté à la branche principale et on peut travailler normalement.<br /> 
 Voir quelques indications ici:
-https://www.activestate.com/blog/getting-git-submodule-track-branch
-
+https://www.activestate.com/blog/getting-git-submodule-track-branch <br /> 
 et plus complet 
 https://www.vogella.com/tutorials/GitSubmodules/article.html
-
 
 
 * Changing file permission issue
