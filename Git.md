@@ -24,10 +24,8 @@ Dans le répertoire du sous-module
 ```
 git checkout master
 ```
-Nous sommes maintenant bien connecté à la branche principale et il est possible de faire
-```
-git pull
-```
+Nous sommes maintenant bien connecté à la branche principale et on peut travailler normalement.
+
 Voir quelques indications ici:
 
 https://www.activestate.com/blog/getting-git-submodule-track-branch
