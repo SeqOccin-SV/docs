@@ -6,7 +6,7 @@ git pull --recurse-submodules
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
-Check address of the remote repository (works of cours for submodule)
+Check address of the remote repository (works for submodules)
 ```
 git config --get remote.origin.url
 ```
