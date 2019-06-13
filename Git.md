@@ -8,6 +8,7 @@ git submodule update --init --recursive
 **Common issues**
 
 * Head detached
+
 Pour un sous-module:
 ```
 HEAD détachée sur 58c1e9c
