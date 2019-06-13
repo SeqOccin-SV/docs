@@ -4,6 +4,7 @@ Updating submodules
 ```
 git submodule update --init --recursive
 ```
+see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
 **Common issues**
 
@@ -23,8 +24,11 @@ Nous sommes maintenant bien connecté à la branche principale et il est possibl
 git pull
 ```
 Voir quelques indications ici:
+
 https://www.activestate.com/blog/getting-git-submodule-track-branch
+
 et plus complet (voir par exemple Pulling with submodules)
+
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 
