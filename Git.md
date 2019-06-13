@@ -1,8 +1,8 @@
 
-Updating submodules
+Pulling everything (including submodules)
 
 ```
-git submodule update --init --recursive
+git pull --recurse-submodules
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
@@ -27,7 +27,7 @@ Pour un sous-module:
 ```
 HEAD détachée sur 58c1e9c
 ```
-J'avoue ne pas avoir encore tout compris, mais je pense que l'on s'en sort simplement comme cela.
+Pas encore tout compris, mais on s'en sort comme cela.
 Dans le répertoire du sous-module
 ```
 git checkout master
