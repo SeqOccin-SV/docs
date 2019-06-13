@@ -6,6 +6,15 @@ git pull --recurse-submodules
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
+Update a submodule version to latest: https://github.com/tj/git-extras/pull/80
+
+```
+cd submodule_name
+git checkout master && git pull
+cd ..
+git add submodule_name
+git commit -m "updating submodule to latest"
+```
 Check address of the remote repository (works for submodules)
 ```
 git config --get remote.origin.url
