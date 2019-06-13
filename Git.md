@@ -10,7 +10,7 @@ Check address of the remote repository (works for submodules)
 ```
 git config --get remote.origin.url
 ```
-Comprendre le fonctionnement des sous-modules (en particulier HEAD détachée) (suggérant qu'il nous faut peut-être pdocéder autrement ?)
+Comprendre le fonctionnement des sous-modules (en particulier HEAD détachée) (suggérant qu'il nous faut peut-être procéder autrement ?)
 
  https://delicious-insights.com/fr/articles/git-submodules/
 
