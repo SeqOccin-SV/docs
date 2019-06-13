@@ -11,14 +11,6 @@ Check address of the remote repository (works of cours for submodule)
 git config --get remote.origin.url
 ```
 
-Config of submodules
-
-```
-more .gitmodules
-```
-
-
-
 **Common issues**
 
 * Head detached
