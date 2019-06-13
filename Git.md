@@ -6,6 +6,19 @@ git submodule update --init --recursive
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
+Check address of the remote repository (works of cours for submodule)
+```
+git config --get remote.origin.url
+```
+
+Config of submodules
+
+```
+more .gitmodules
+```
+
+
+
 **Common issues**
 
 * Head detached
