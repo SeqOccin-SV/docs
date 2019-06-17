@@ -1,7 +1,7 @@
 
 
 
-**Submodules**
+### Submodules
 
 Pulling everything (including submodules)
 
@@ -43,6 +43,22 @@ https://www.activestate.com/blog/getting-git-submodule-track-branch <br />
 et plus complet 
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
+
+### Banches
+
+Creating a new branch
+```
+ git checkout -b [name_of_your_new_branch]
+```
+Push the branch on github : 
+
+```
+git push origin [name_of_your_new_branch]
+```
+see https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches/_edit
+
+
+**General Common issues**
 
 * Changing file permission issue
 ```
