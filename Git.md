@@ -44,7 +44,7 @@ et plus complet
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 
-### Banches
+### Branches
 
 Creating a new branch
 ```
