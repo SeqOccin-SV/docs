@@ -1,4 +1,6 @@
 
+Some usefull git functionalities
+
 * [Submodules](#submodules)
 * [Branches](#branches)
 
