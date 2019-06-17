@@ -1,7 +1,9 @@
 
+* [Submodules](#submodules)
+* [Branches](#branches)
 
 
-### Submodules
+### <a id="submodules"></a>Submodules
 
 Pulling everything (including submodules)
 
