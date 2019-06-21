@@ -7,30 +7,31 @@ Some usefull git functionalities
 
 ### <a id="submodules"></a>Submodules
 
-Pulling everything (including submodules)
+- Pulling everything (including submodules)
 
 ```
 git pull --recurse-submodules
 ```
 see https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
 
-Pour se débarasser des HEAD detatched: https://stackoverflow.com/questions/6474847/how-do-i-git-clone-recursive-and-checkout-master-on-all-submodules-in-a-single/6475033
+- Get rid of HEAD detatched: https://stackoverflow.com/questions/6474847/how-do-i-git-clone-recursive-and-checkout-master-on-all-submodules-in-a-single/6475033
 
 ```
 git submodule foreach --recursive git checkout master
 ```
-Check address of the remote repository (works for submodules)
+- Check address of the remote repository (works for submodules)
 ```
 git config --get remote.origin.url
 ```
-Change address the submodule remote repository
+- Change address the submodule remote repository
 
 https://stackoverflow.com/questions/913701/how-to-change-the-remote-repository-for-a-git-submodule
 
+- Tie the submodule to a specific commit or branch
 
+https://twoguysarguing.wordpress.com/2010/11/14/tie-git-submodules-to-a-particular-commit-or-branch/
 
-
-Comprendre le fonctionnement des sous-modules (en particulier HEAD détachée) (suggérant qu'il nous faut peut-être procéder autrement ?)
+- Comprendre le fonctionnement des sous-modules (en particulier HEAD détachée) (suggérant qu'il nous faut peut-être procéder autrement ?)
 
  https://delicious-insights.com/fr/articles/git-submodules/
 
