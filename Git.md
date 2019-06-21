@@ -23,6 +23,13 @@ Check address of the remote repository (works for submodules)
 ```
 git config --get remote.origin.url
 ```
+Change address the submodule remote repository
+
+https://stackoverflow.com/questions/913701/how-to-change-the-remote-repository-for-a-git-submodule
+
+
+
+
 Comprendre le fonctionnement des sous-modules (en particulier HEAD détachée) (suggérant qu'il nous faut peut-être procéder autrement ?)
 
  https://delicious-insights.com/fr/articles/git-submodules/
