@@ -15,5 +15,12 @@ conda env update -f path_environment_file.yaml
 ```
 conda remove package
 ```
+
+### Removing an environment
+```
+conda remove --name myenv --all
+```
+
+
 [Conda documentation](https://docs.conda.io/projects/conda/en/latest/commands.html)
 
