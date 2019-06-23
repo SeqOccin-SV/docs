@@ -2,7 +2,13 @@
 ### Creating an environment file environment.yaml
 
 ```
-conda env export | grep -v "^prefix: " > environment.yml
+conda env export | grep -v "^prefix: " > environment.yaml
+```
+
+### Creating an environment from a environment.yaml file
+
+```
+conda env create -f environment.yaml
 ```
 
 ### Updating an environment 
