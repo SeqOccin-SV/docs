@@ -19,6 +19,10 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 [Git](Git.md)
 
+### Memory usage of a given process
+https://unix.stackexchange.com/questions/375889/unix-command-to-tell-how-much-ram-was-used-during-program-runtime
+
+
 ### Specifications
 
 [Vcf specifications](VcfSpecifications.md)
