@@ -24,7 +24,7 @@ conda remove package
 
 ### Removing an environment
 ```
-conda remove --name myenv --all
+conda env remove --name myenv
 ```
 
 
