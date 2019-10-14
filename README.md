@@ -11,6 +11,8 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 [Svviz2](Svviz2.md)
 
+[bcftools](bcftools.md)
+
 ### Documentation for external tools
 
 [Conda](Conda.md)
