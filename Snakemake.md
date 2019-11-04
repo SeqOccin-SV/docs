@@ -1,4 +1,4 @@
-### Runnong snakemake on the cluster
+### Running snakemake on the cluster
 
 ```
 export DRMAA_LIBRARY_PATH="/tools/libraries/slurm-drmaa/slurm-drmaa-1.0.7/lib/libdrmaa.so" 
