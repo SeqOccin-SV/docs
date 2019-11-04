@@ -10,3 +10,11 @@ snakemake --jobs 30 --cluster-config cluster.yaml --drmaa " --mem-per-cpu={clust
 
 https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html
 
+### Best practices snakemake workflows
+
+The snakemake machinery
+
+https://bitbucket.org/snakemake/snakemake/issues/295/keyerror-on-cluster-but-not-locally
+
+https://bitbucket.org/snakemake/snakemake/issues/428/adding-list-and-dictionary-expansion-to
+
