@@ -18,3 +18,19 @@ https://bitbucket.org/snakemake/snakemake/issues/295/keyerror-on-cluster-but-not
 
 https://bitbucket.org/snakemake/snakemake/issues/428/adding-list-and-dictionary-expansion-to
 
+### A short course on Snakemake
+
+# First the presentation
+  https://slides.com/johanneskoester/snakemake-tutorial#
+
+# Next the step by step tutorial
+  https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
+  
+# The important concepts
+  * See slide 37 of the presentation on slides.com
+  * the wildcards
+  * the input functions
+  
+
+
+
