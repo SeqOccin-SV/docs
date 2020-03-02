@@ -23,6 +23,9 @@ Bechmarking long read aligners : minimap2 and ngm-lr
 
 [Pysam](Pysam.md)
 
+[Tikz](Tikz.md)
+
+
 ### Memory usage of a given process
 https://unix.stackexchange.com/questions/375889/unix-command-to-tell-how-much-ram-was-used-during-program-runtime
 
