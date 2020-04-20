@@ -1,8 +1,10 @@
 
+
 Some usefull git functionalities
 
 * [Submodules](#submodules)
 * [Branches](#branches)
+* [Credentials](#credentials)
 
 
 ### <a id="submodules"></a>Submodules
@@ -68,6 +70,17 @@ Push the branch on github :
 git push origin [name_of_your_new_branch]
 ```
 see https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches/_edit
+
+
+### <a id="credentials"></a>Credentials
+
+Turn on the credential helper so that Git will save your password in memory for some time. By default, Git will cache your password for 15 minutes.
+```
+git config --global credential.helper cache
+```
+see https://help.github.com/en/github/using-git/caching-your-github-password-in-git
+
+
 
 
 **General Common issues**
